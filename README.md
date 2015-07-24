@@ -1,5 +1,5 @@
 # MQLite
-##A simple memory queue
+A simple memory queue
 # Example Usage:
 
 ```javascript
